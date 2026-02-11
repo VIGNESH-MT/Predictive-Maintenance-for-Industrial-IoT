@@ -198,8 +198,8 @@ industrx-platform/
 # Quick Start (Development Mode)
 
 ```bash
-make setup
-make run-local
+# make setup
+# make run-local
 ```
 Enterprise Deployment 
 terraform apply
