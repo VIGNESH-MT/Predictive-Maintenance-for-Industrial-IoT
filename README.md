@@ -205,7 +205,7 @@ Enterprise Deployment
 terraform apply
 helm install industrx ./infra/helm-charts
 
-###Scalability Architecture
+## Scalability Architecture
 
 Horizontal pod autoscaling
 
@@ -217,7 +217,7 @@ Feature store sharding
 
 Multi-tenant readiness
 
-###Testing & Reliability
+## Testing & Reliability
 
 90%+ unit test coverage
 
@@ -227,7 +227,7 @@ Chaos-tested resilience layer
 
 Production observability stack
 
-###License
+## License
 
 Enterprise License — Contact for Commercial Deployment
 
