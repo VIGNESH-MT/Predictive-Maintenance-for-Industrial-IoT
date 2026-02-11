@@ -6,7 +6,7 @@ INDUSTRIX™ is a production-grade AI platform designed for industrial enterpris
 
 Built for high-scale Industrial IoT ecosystems, INDUSTRIX™ ingests real-time telemetry from distributed assets and transforms it into actionable risk intelligence, failure forecasts, and automated maintenance recommendations.
 ---
-### The Business Problem
+The Business Problem
 
 Industrial enterprises lose billions annually due to:
 
