@@ -1,6 +1,6 @@
 # INDUSTRIX™
-Enterprise Asset Intelligence Platform
-Predict. Prevent. Optimize.
+### Enterprise Asset Intelligence Platform
+### Predict. Prevent. Optimize.
 
 INDUSTRIX™ is a production-grade AI platform designed for industrial enterprises to transition from reactive maintenance to fully autonomous predictive reliability operations.
 
