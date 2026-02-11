@@ -1,4 +1,4 @@
-INDUSTRIX™
+# INDUSTRIX™
 Enterprise Asset Intelligence Platform
 Predict. Prevent. Optimize.
 
