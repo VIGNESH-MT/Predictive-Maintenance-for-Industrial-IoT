@@ -234,5 +234,7 @@ Enterprise License — Contact for Commercial Deployment
 Author
 
 Vignesh Murugesan
+
 AI Systems Architect
+
 Building Enterprise-Grade Industrial Intelligence Platforms
