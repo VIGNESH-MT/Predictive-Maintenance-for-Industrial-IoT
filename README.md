@@ -8,7 +8,6 @@
 ## INDUSTRIX™ is a production-grade AI platform engineered to transform industrial maintenance from reactive firefighting into autonomous reliability orchestration.
 
 Built for high-scale Industrial IoT ecosystems, INDUSTRIX™ ingests real-time telemetry from distributed assets and converts it into actionable risk intelligence, failure forecasts, and automated maintenance recommendations.
-
 ---
 
 # The Business Problem
